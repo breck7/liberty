@@ -5,6 +5,7 @@ buildHtml
 tags All
 
 homeButton
+keyboardNav
 leftRightButtons
 
 container 750px
