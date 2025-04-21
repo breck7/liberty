@@ -9,6 +9,6 @@ homeButton
 printTitle
 
 thinColumns 4
-printSnippets All
+printShortSnippets All
 
 footer.scroll
