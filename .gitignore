@@ -1,0 +1,7 @@
+*.html
+*.rss
+*.txt
+.*.js
+.*.css
+feed.xml
+.DS_Store

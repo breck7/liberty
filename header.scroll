@@ -1,0 +1,21 @@
+importOnly
+theme gazette
+metaTags
+buildHtml
+tags All
+
+homeButton
+leftRightButtons
+
+container 750px
+printTitle
+printAuthors
+printDate
+
+// css
+ :root { --scrollBaseFontSize: 16px;}
+ .scrollParagraph {text-indent: 2em;}
+
+footer.scroll
+ moveToFooter
+
