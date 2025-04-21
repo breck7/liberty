@@ -1,4 +1,14 @@
-title Liberate Ideas
-header.scroll
-printShortSnippets All
+title Ideas on Ideas
 
+theme gazette
+metaTags
+buildHtml
+
+homeButton
+
+printTitle
+
+thinColumns 4
+printSnippets All
+
+footer.scroll
