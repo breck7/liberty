@@ -1,13 +1,6 @@
 title Ideas on Ideas
 
-theme gazette
-metaTags
-buildHtml
-
-homeButton
-
-printTitle
-
+staticHeader.scroll
 thinColumns 4
 printShortSnippets All
 

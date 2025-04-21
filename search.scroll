@@ -1,0 +1,13 @@
+title Search
+staticHeader.scroll
+
+wideColumns 2
+
+posts All
+ unselect date
+  printTable
+tableSearch
+
+
+
+footer.scroll

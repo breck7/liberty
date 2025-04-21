@@ -1,0 +1,12 @@
+importOnly
+theme gazette
+metaTags
+buildHtml
+
+homeButton
+
+printTitle
+
+center
+Search
+ search.html
