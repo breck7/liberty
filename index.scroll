@@ -1,6 +1,13 @@
-title Ideas on Ideas
+title Spread These Ideas
 
 staticHeader.scroll
+
+printTitle
+
+# An anthology of thinkers writing against copyrights and patents
+
+links.scroll
+
 thinColumns 4
 printShortSnippets All
 
