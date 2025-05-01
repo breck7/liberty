@@ -1,7 +1,9 @@
 title Search
 staticHeader.scroll
 
-wideColumns 2
+# Search _Voices Against Copyright_
+
+container 1000px
 
 posts All
  unselect date

@@ -1,14 +1,17 @@
-title Spread These Ideas
+title Voices Against Copyright
 
 staticHeader.scroll
 
 printTitle
 
-# An anthology of thinkers writing against copyrights and patents
+# Different thinkers coming to the same conclusion against copyright and patent law
 
 links.scroll
-
+hedcut.parsers
+hedcut.css
 thinColumns 4
-printShortSnippets All
+printHedcuts All
+
+</div>
 
 footer.scroll

@@ -1,0 +1,237 @@
+header.scroll
+title Copyright And Patent Policy In a Post-Scarcity Society
+authors Paul Fernhout
+ https://pdfernhout.net/open-letter-to-grantmakers-and-donors-on-copyright-policy.html
+date 1/01/2001
+
+_An Open Letter to All Grantmakers and Donors On Copyright And Patent Policy In a Post-Scarcity Society_
+
+# executive summary
+
+Foundations, other grantmaking agencies handling public tax-exempt dollars, and charitable donors need to consider the implications for their grantmaking or donation policies if they use a now obsolete charitable model of subsidizing proprietary publishing and proprietary research. In order to improve the effectiveness and collaborativeness of the non-profit sector overall, it is suggested these grantmaking organizations and donors move to requiring grantees to make any resulting copyrighted digital materials freely available on the internet, including free licenses granting the right for others to make and redistribute new derivative works without further permission. It is also suggested patents resulting from charitably subsidized research research also be made freely available for general use. The alternative of allowing charitable dollars to result in proprietary copyrights and proprietary patents is corrupting the non-profit sector as it results in a conflict of interest between a non-profit's primary mission of helping humanity through freely sharing knowledge (made possible at little cost by the internet) and a desire to maximize short term revenues through charging licensing fees for access to patents and copyrights. In essence, with the change of publishing and communication economics made possible by the wide spread use of the internet, tax-exempt non-profits have become, perhaps unwittingly, caught up in a new form of "self-dealing", and it is up to donors and grantmakers (and eventually lawmakers) to prevent this by requiring free licensing of results as a condition of their grants and donations.
+
+# introduction to the problem
+
+Consider this license fragment from a foundation supported (PRI) project from 1993: "You will not modify, publish, distribute, transmit, participate in the transfer or sale, create derivative works, or in any way exploit, any of the content, in whole or in part, found on the Service."
+
+The non-profit collaborative communications ecosystem is polluted with endless anti-collaborative restrictive terms of use for charitably funded materials (both content and software) produced by a wide range of public organizations. These restrictions are in effect acting like "no trespassing -- toxic waste -- keep out -- this means you" signs by prohibiting making new derived works directly from pre-existing digital public works. The justification is usually that tight control of copyright and restricting communications of those materials will produce income for the non-profit, and while this is sometimes true, the cost to society in the internet age in terms of limiting cooperation is high, and in fact, I would argue, too high.
+
+Unfortunately, the situation is even worse than that, because even without a copyright notice or license, the default under the law is now that all works are copyrighted upon creation. So basically everything on the internet put up by non-profits without an explicit license granting permission to use, communicate, and/or make derivative works also has an invisible implicit "no trespassing" sign on it as well.
+ http://www.loc.gov/copyright/circs/circ03.html the law
+
+Perhaps allowing content producing 501(c)3 non-profits to tightly control their copyrights made sense in the past. Driven by cuts in much non-profit funding in the 1980s and early 1990s, many non-profits moved to funding models requiring more entrepreneurship. For many non-profits, that has meant selling copyrighted materials, and they effectively became no different than commercial publishers -- except for receiving a charitable subsidy that perhaps allows break-even cost production for smaller audiences otherwise underserved by the the mainstream for-profit press. Acting as subsidized presses has been an important mission for non-profits, and both my wife and I have helped with it. We assisted NOFA-NJ in producing two versions of the New Jersey Organic Market Directory -- which was subsidized by among others the Geraldine R. Dodge Foundation.
+
+But, I would argue, it no longer makes sense to enable non-profits to function mainly as subsidized publishers operating in an otherwise conventional for-profit way through selling copyrighted material. Assuming subsidized publishing made sense at some point, what has changed recently? Widespread internet use is one obvious thing. In general, the bigger picture is that a more cooperative "post-scarcity" economy is emerging.
+ http://www.google.com/search?q=post-scarcity post-scarcity
+
+This post-scarcity economy is made possible by such things as:
+
+- the exponential growth of technological capacity (including the
+internet),
+- increasingly widespread knowledge, and
+- new ways of collaborating pioneered by free software and open source
+developers.
+
+# post-scarcity information economics and non-profits
+
+Even in a "post-scarcity" or "gift" economy, some things remain scarce, like human attention or trust. This new economy is driven in part by peer status, which does have indirect physical, economic, and other benefits. http://www.well.com/user/mgoldh/natecnet.html
+James P. Hogan wrote a novel "Voyage from Yesteryear" around 1982 on a similar premise describing a gift economy governed by status: http://www.jamesphogan.com/books/voyage/baen99/titlepage.shtml
+
+Nowhere is a post-scarcity economy more visible today than with content on the internet. However, does the funding plan for most digital public works made by non-profits incorporate a post-scarcity perspective?
+
+There are a lot of non-profit projects being funded out there (especially educational and digital library ones) which have a component of attempting to charge for access to the results of charitably funded work as part of their business plan. Some completely restrict access (and redistribution) to a local paying community. In fact, most government funding agencies and foundations encourage such restrictions, on the (often flawed) assumption that such restrictions will make the project self-sustaining financially. Rather than single out another example, let me point as a contrast to a foundation: http://www.centerforthepublicdomain.org/
+and an organization it funds: http://www.ibiblio.org/ that are both doing a great job at enlarging the public domain as opposed to shrinking it.
+
+An outdated scarcity perspective in the non-profit community is still manifesting itself, however. There remains a continued emphasis on charitable projects which include plans for restricting access to the resulting publicly funded digital works now, in the hopes of creating revenue streams later. The funded organization usually proposes continuing to improve the work itself under its solitary control using money derived from selling licenses to the work. Contrast this with, for example, the post-scarcity development of the GNU/Linux operating system, made by thousands of volunteers contributing improvements to an initial base contributed by Linus Torvalds and the Free Software Foundation (FSF) GNU project.
+
+The old scarcity criterion towards selecting what makes a viable project (based on a recurring royalty stream for static content) is completely at odds with the new post-scarcity model (based more on streams of attention, status, service, and customization). The new collaborative development process made possible by the internet (resulting in a work made by sharing licenses to copyrights made by a distributed network of authors funded indirectly by other means) is fundamentally different than the old process (resulting in a work made by centralized copyright ownership with a development process funded by selling licenses to the result).
+
+# how copyright ownership corrupts the non-profit mission
+
+One problem with the current approach is that non-profits who are paid to create proprietary content and then sell access to it are unfairly competing with for-profit companies who do the same thing. While there may always be an issue with how contributions to the public domain affect other peoples proprietary profit-making plans, conflicts between for-profit and non-profit work might be greatly lessened if all non-profit content development work was put in the public domain or under some sort of free license (copylefted or not), http://www.fsf.org/copyleft/copyleft.html so everyone, for-profit and non-profit alike, could build on it in some way. This would mean there would be no situation where a non-profit, having developed some copyrighted or patented system, could use it to gain unfair advantage over a for-profit entity, because the for-profit company could always build on and extend the non-profit's work. Such policies might help foster a related worldwide culture of benevolence, cooperation, and sharing in non-profits might also improve things among an increasingly competitive non-profit culture shift, because free access to each others copyrights and patents might in turn do more to promote an attitude of friendly competition in non-profit staff instead of combat over what might seem at first to be finite resources.
+
+This is more than anything a plea to think about how the tightly controlled ownership of copyrights can be corrupting people and organizations in the non-profit world -- because we have seen that first hand to our dismay. Please think deeply about the difference between
+"free" content and "subsidized" content. There is a world of difference in terms of making derived works, since free content can be given away with permission to make derived works, whereas subsidized content can't.
+
+Similarly, the common notion of "matching funds" breaks down when applied to whether a product is free (as in the French "libre" sense [think free speech], not necessarily "gratuit" sense [think free beer]) http://www.gnu.org/philosophy/categories.html Since half the match needs to come from selling licenses to the work, this means derived works can't be easily allowed. Problems also arise when a developer matches free funds with a free license to a proprietary underlying platform, because the combination can then never be free in the sense of allowing derived works.
+
+In both cases, the "free" funds from charity are contaminated by the
+"proprietary" contribution and the result is essentially proprietary (even when the price of the result is $0). It might be much better to have half as many truly free projects as opposed to twice as many proprietary ones, because everyone could potentially benefit from building on the free projects, so their value each might be (arbitrarily) ten to one hundred times that of proprietary ones.
+
+# is it "self-dealing" to exchange public property for salary?
+
+Consider this way of looking at the situation. A 501(c)3 non-profit creates a digital work which is potentially of great value to the public and of great value to others who would build on that product. They could put it on the internet at basically zero cost and let everyone have it effectively for free. Or instead, they could restrict access to that work to create an artificial scarcity by requiring people to pay for licenses before accessing the content or making derived works.
+
+If they do the latter and require money for access, the non-profit can perhaps create revenue to pay the employees of the non-profit. But since the staff probably participate in the decision making about such licensing (granted, under a board who may be all volunteer), isn't that latter choice still in a way really a form of "self-dealing" -- taking public property (the content) and using it for private gain? From that point of view, perhaps restricting access is not even legal?
+
+Self-dealing might be clearer if the non-profit just got a grant, made the product, and then directly sold the work for a million dollars to Microsoft and put the money directly in the staff's pockets (who are also sometimes board members). Certainly if it was a piece of land being sold such a transaction might put people in jail. But because the content or software sales are small and generally to their mission's audience they are somehow deemed OK. To be clear, I am not concerned that the developers get paid well for their work and based on technical accomplishments. What I am concerned about is the way that the proprietary process happens such that the public (including me) never gets full access to the results of the publicly funded work (other than perhaps a few publications without substantial source).
+
+I've restricted this to talking about copyrights, but patents only make this situation worse. Right now, a patent on MP3 technology held by a non-profit (the Fraunhofer-Gesellschaft, commissioned and funded by the Federal and L�nder governments) http://www.iis.fhg.de/amm/legal/index.html http://www.fhg.de/english/company/index.html is causing distress to free software developers, and their response is to invent a new audio encoding system. http://www.vorbis.com/ (My response to similar distress could be seen as this effort to reinvent the non-profit sector entirely. :-)
+
+This example is from Germany, but one could find similar examples in the United States. Likewise, Germany has many outstanding developers of free and open software, "Germany Leads In Open-Source Development" http://content.techweb.com/wire/story/TWB20001101S0016 so this situation reflects internal conflicts in German society as well.
+
+I admit this self-dealing analogy may sound at first far fetched, but perhaps that is another sign of how bad the situation has become as old economic models of paper-based content distribution break down in the internet age.
+
+Note: this is not to argue non-profits should not be able to assert
+"moral rights" or "privacy rights" over various types of content they produce as the situation applies. For example an artist collective might not want their digital paintings modified (even if they can be freely redistributed), or clients at a clinic might not want their digital records made publicly available. Both are digital works, but in one case
+"moral rights" may apply, and in the other "privacy rights" may apply. There will undoubtedly be gray areas as works fall between categories (e.g. a work of art telling how to do something).
+
+# how new alternatives can work
+
+Assuming people need to make a living, how can people who deal in public domain works get paid? One may object that such a "new" scheme of sharing non-proprietary knowledge created by charitable means can never work economically. However, there are perfectly capitalistic examples where it has worked already.
+
+The "new" model of making money with public domain content is actually an old one related to guilds. Doctors and lawyers both make excellent livings working with a large body of public domain knowledge, interpreting it, customizing it, and applying it to client's specific situations. Both doctors and lawyers create new knowledge that is effectively put into the public domain in the form of medical journal articles or court proceedings. While the average person can be their own doctor or lawyer to an extent, there is so much to know including certain ways of reasoning that in practice one is usually better off getting some assistance from a professional (as well as getting some self-education to work well with that professional) than trying to go it alone.
+
+Many times grants help researchers create more information for the medical or legal public domain. But those grants don't corrupt the process, because the results are essentially available to all practitioners on an equal basis.
+
+There are some medical grants that produce drug or plant patents that probably are corrupting, but that is another issue. Patents are an example when science (which thrives on reference chains of journal articles) crosses over into technology (which thrives on incrementally improved artifacts -- and artifacts can be copyrighted or patented to prevent others from using them for a time).
+
+To help a lawyer to understand free or open source software for example, just ask her or him to think about it in terms of the law itself -- from court proceedings to legislative records. While lawyers may pay for a service like Westlaw for convenience or practical necessity, http://www.westlaw.com/about/ they are not paying to use the law itself, say when they make an argument in court.
+
+Surely nobody would suggest the world was better off in the days of 18th-century England when a medical student had to crawl on top of a roof and look in from a skylight to find out the proprietary technique used by one group of secretive obstetricians to have a lower rate of infant and maternal mortality than their competitors: http://web.archive.org/web/20030405130500/http://www.ogilvy.com/memorial/html/onads.htm
+
+Yet, in some ways, are drug patents or other medical technology patents really that much different than simply hiding the information to those with no choice about needing the drug and can't afford it (such as in developing nations with AIDS epidemics)? And if the answer is that they are different things, still, should charitable or tax dollars be subsidizing proprietary techniques, even for limited times? And as a deeper issue, as copyrights are effectively extended indefinitely, and as technology moves increasingly faster and faster, rendering even twenty years and eternity of many generations of technical development, any sense of a public bargain that copyrights and patents someday become public domain in a *useful* way, is starting to break down. Granted, that is an issue that goes beyond the one of purely charitably funded works, but it still is an issue charitable donors should consider.
+
+This guild-like process has already started with public software such as GNU/Linux. Competent GNU/Linux system configuration experts are now in high demand and can get good wages for dealing in purely free software. One of the things that helps prove competence in this "guild" is having contributed to the GNU/Linux kernel.
+
+[Note that historically guilds often kept their methods secret from outsiders; I'm not advocating that here.]
+
+# why "new" alternatives need to work
+
+How different is the basic issue in the secretive obstetricians example above from when publicly funded non-profits put "no trespassing" signs around their copyrighted works, preventing anyone else from improving on them, or benefiting from them without paying a toll to the non-profit itself?
+
+Toll collecting imposes other external costs. Once I heard a collision happen between a few cars two lanes over while driving at the Whitestone bridge's toll plaza -- another hidden cost of tolls. People could have died, say if an airbag killed a child improperly secured in a front seat. Likewise, I had my license plate scanned and checked as I paid a toll leaving an airport parking field (according to the automated display), resulting in an extra "privacy" toll not recorded on the receipt.
+
+The tolls imposed by non-profits for licensing their copyrights can have similar negative external costs. Such tolls can contribute to causing people in developing nations to die because of lack of access to how-to information on agriculture. Such tolls can also contribute to creating a closed bureaucratic Orwellian society without privacy where every viewing of information is monitored so it can be billed (consider Acrobat Reader 5 which includes technology to scan your computer and communicate the results across the internet -- pick "Edit | DocBox | Preferences" to see the InterTrust warning and license). As mentioned earlier, such restrictions can also (through temptation) create criminals where none might have existed.
+
+Frankly, if the non-profit world of copyright creation cannot provide a model by slowly moving to a post-scarcity economic structure, when such creation is already funded in large part by charity, how can the for-profit world survive the transition without complete and painful chaos?
+
+Naturally, many non-profits like soup kitchens or Habitat for Humanity are already working on a service basis, and if they collect fees for services rendered, I'm not against that. I'm talking specifically about copyright and patent work here.
+
+# examples of fine-grained cooperation in action
+
+How could post-scarcity economics be reflected in new ways of doing things by the non-profit sector?
+
+The current growth level of the internet makes possible fine-grained voluntary collaboration on an unprecedented scale to cooperatively develop enormous creative works, exemplified by these three collaboratively developed sites:
+
+- http://www.everything2.org/
+- http://dmoz.org/
+- http://www.slashdot.org/
+
+In a sense, these sites are promoting a concept which in biology is called "stigmergy". An example is how African termites build large mounds -- by getting excited at the partial structures other termites have made and adding to them, which gets even more termites excited in new ways. Essentially, these web sites are "artifact coordinated cooperation". Without some form of a free license, this form of advanced cooperation can not take place among peer, because there is neither free access to the artifact or legal permission to change it in any way to make a new derived work.
+
+Post-scarcity collaboration has also long been shown by many of the internet newsgroups, which include discussions and information on most topics of human interest, somewhat archived and indexed here: http://groups.google.com/googlegroups/deja_announcement.html At this point, I rely on these newsgroups to do a good job as a software developer when starting a new project with new technology. My technical questions are almost always asked and answered already.
+
+In short, non-profits could work together to create in total a continually improving distributed library of free digital public works covering all human needs. This would be a very different side of the internet than the one full of tolls and restrictions that many for-profit interests are working towards.
+
+For a hint of what this might someday become, read Theodore Sturgeon's short story written in the 1950s entitled "The Skills of Xanadu". That story helped inspire our (hibernating) OSCOMAK project: http://www.kurtz-fernhout.com/oscomak/index.htm
+and a related "moral license" concept: http://www.kurtz-fernhout.com/oscomak/license.htm
+
+# how things go wrong with current practice
+
+However, most non-profit organizations dealing with "know-what",
+"know-how", or "know-why" content (i.e. science, technology, and art/philosophy) still follow the common practice of supporting their continued existence as they transition to the internet age by attempting to make money directly selling digital public works funded by grants, the same way they used to sell text books, blueprints, or art prints.
+
+This model of fund raising has some serious negative consequences. The main one revolves around preventing collaboration by preventing easily making derived works. There are more subtle moral and ethical implications as well, which Richard Stallman points out, as the age old civic duty of sharing with a neighbor is made immoral and illegal (and repositioned linguistically as "piracy"). http://www.fsf.org/philosophy/philosophy.html
+
+Naturally, promoting sharing still needs to balance both "moral rights"
+of authors getting credit for their works or controlling some aspects of the presentation or alteration of aesthetic or opinion works (as opposed to functional ones), and "privacy rights" related to personal information. For more on these distinctions, see for example: http://www.ipmatters.net/webcaught/interview_stallman.html or: http://www.fsf.org/events/rms-nyu-2001-transcript.txt
+
+Given the ease of free content distribution on the internet, to make money from content, organizations must create an artificial scarcity of their content (including text and software). This entails using copyright to impose restrictions preventing anyone from making copies of their content, so people will pay for licenses to use their content. Since derived works are also copies in a way, organizations must also prevent others from making derived works.
+
+This derived-works restriction in turns prevents cooperation through others easily building on the works. In theory, money changing hands will let things continue to happen, and sublicensing of content for derived works does happen to an extent in the commercial world. However, even if a non-profit organization is willing to license their works to others for a fee for making derived works, this entails royalty payments, carefully evaluating complex binding legal contracts, and other arrangements whose initial cost to set up and operate generally exceed any expected revenue of most subsequent charitable projects, and, further, force all derived works to be handled as commercial, not gift, transactions.
+
+Essentially, instead of having permanent lasting benefits, the initial charitable investment made by some foundation or government agency into supporting a non-profit organization's content creation process just devalues over time as the content becomes obsolete or is forgotten by the very organization that created it -- since no one else with an interest in the work can maintain it.
+
+The ironic thing is that most non-profits will probably fail to make enough money from selling their content to even justify the expenses of doing so, so the loss to humanity is for nothing more than a funding fantasy.
+
+# the tragedy of the New Alchemy Institute
+
+Yet, there are millions of individuals on the internet who might continue to improve content developed initially by non-profits, if these individuals only had the right to do so (rights that can only be granted by the copyright holder).
+
+For example, I have a large selection of publications created by the New Alchemy Institute on things like compost pile management, indoor fish farming, and geodesic dome greenhouse construction. I paid for those copies both for the information and to help support the institute. The New Alchemy Institute is now defunct. I have no right under copyright law to put these materials on a web site or to improve them , as much as I would like to do so (until about 100 years from now). Quite possibly obtaining such rights might cost more in time and money than creating such materials from scratch or completely rewriting them. Even if I got permission from someone previously affiliated with the New Alchemy Institute or its successors to do something with the materials, how could I be sure their information was accurate and their permission meaningful and legally binding? Sadly, decades of innovative and alternative non-profit R&D work done by dedicated and hardworking people at NAI is effectively lost as far as the internet audience is concerned. And that means, that R&D work is effectively lost to everyone in the world as the internet continues to supplant other forms of content distribution and use (like using inter-library loan).
+
+In the past, when most information was sold on paper and was difficult to modify, perhaps it made sense for non-profits to raise funds by selling documents (as when I purchased the New Alchemy Institute materials). But now, this old habit based on an out-dated paradigm is preventing cooperation and collaboration to create the informational underpinnings of a post-scarcity society demonstrating knowledge democratization.
+
+For me, the deepest tragedy of the New Alchemy Institute is somewhat personal. I visited NAI around 1989 and later gave an invited talk there to some interns, while a graduate student at Princeton. I wanted to make a library on sustainable technology and related simulations, and NAI had an extensive library on such topics and an interested member base and even some Macintosh computers. But we never connected -- in part because I was too shy and couldn't think of something coherent and fair to propose as a way out of my boxes of being a PhD graduate student and thinking in terms of a for-profit company selling proprietary software requiring a substantial investment, and out of their boxes of being mainly an agricultural technology R&D facility, selling products and papers via their catalogue, and giving interns room and board for doing manual labor. I was very saddened by the newsletter announcing their demise around 1991, because I felt that working together on a digital library of alternative technology we might have prevented that. [And ironically Richard Stallman with his Free Software vision in Cambridge was only about seventy-five miles away from NAI.]
+
+For reference, all the NAI publications themselves are supposedly available through inter-library loan at the American Archives of Agriculture (AAA), located at Iowa State University. The library itself became part of a "Green Center" at the same location, but I am not sure if that is still in operation, and in any case NAI would have no way to grant permissions for putting any works but its own on-line. Such works would ultimately have to be rewritten from multiple sources to be put on-line, a project probably worth doing, but something that would take far more effort than putting on-line what exists.
+
+# proprietary vs. free content producer example
+
+How can we prevent such tragedies from happening again and again, even for internet-connected non-profits? One possibility is simply for non-profits from the start to put their creative works under licenses allowing redistribution and the making of derived works. As a corollary, they must then obtain their funding from ways other than selling licenses to use copyrighted works. They can still sell permission to access an archive, as long as the works including the entire archive are freely redistributable once accessed.
+
+Contrast, for example, this proprietary work of hundreds of appropriate technology publications sold as micro-fiche or CD-ROM which is still pretty much as it was ten years ago: "The Appropriate Technology Library" http://www.villageearth.org/ATLibrary/cdrom.htm
+with this blossoming free library to aid developing nations which is available directly over the web: "The Humanity Libraries Project" http://www.humaninfo.org/
+Which one has more of a future given the internet? Which one could continue be improved if the supporting organization were to suddenly become defunct? Which organization and development process is then really the lower risk "investment" for a foundation grant?
+
+The Humanity Libraries Project is the exception to the rule. The difficulties they face and the solutions they see to them (for example, starting a petition just to get the UN to freely license its content so people who need it can get it) just show how bad the situation has gotten and how ingrained the old habits are. Their petition idea helped inspire this essay on enlarging the issue to being about the copyrights of all non-profits, no just the UN and directly related NGOs.
+
+Copyright for most government funded work goes to the for-profit contractor, who usually just sits on the work because it is more expensive and risky to market a copyright than to get another government contract. Copyright for most foundation supported work goes to the non-profit, who also usually just sits on the work or makes only token efforts at marketing because it is more expensive and risky to market a copyright than to get another foundation grant. Perhaps an occasional exception is museums who show in-house created digital works until they become obsolete in a restricted setting (generally entered only after the patron pays a general admission fee).
+
+In some ways, the state of non-profit copyright ownership and licensing is so bad we don't even notice the issue anymore.
+
+# digital public works are not physical public works
+
+The fundamentally flawed concept is that digital public works are like physical public works. When one creates a physical public work like a bridge, it may make sense to charge a toll to pay for its construction or upkeep -- although even that is questionable, see for example: http://www.gnu.org/philosophy/shouldbefree.html
+
+This physical public works paradigm is unfortunately then applied to thinking about most digital public works, and there is a major flaw in the analogy. A bridge does not require much marketing. It's highly visible by the nature of what it is and how it is built. Things are different in the content and software realm. Marketing costs for any commercially successful software product are typically ten times that of creation costs. Many well funded marketing efforts fail. So, almost all projects funded by foundations with an intent to be marketed later using other funds will fail because the funds won't materialize. Likewise, because the costs of production are small relative to marketing, there is usually little value in other's licensing the works (at typically inflated fees) as opposed to just making new ones since the marketing costs are the dominating factor.
+
+Word-of-mouth marketing strategies can lower marketing costs, but it may increase support costs, and it also often takes years. This is far beyond the funding horizon of most non-profits with paid staff. Freely distributed collaborative efforts like GNU/Linux may survive long enough for word-of-mouth to help them -- but that requires a different approach to licensing.
+
+# patents, blueprints, and journal articles are "leftovers" today===
+
+Plenty of public money is being spent -- it just is not connecting to the community as digital public works. This failure to connect is also in part because of another notion -- that patents and scientific journal articles as funding "leftovers" are sufficient detail to support a free technological civilization.
+
+For an example of why this doesn't work, researchers at NASA just discovered NASA doesn't have the rights to the 3D CAD models of the International Space Station or the Space Shuttle. They had wanted to make a virtual reality model of those for further research and development of ergonomic design. Such plans are now on hold until new arrangements can be worked out with the contractors.
+
+Funding organizations need to break out of the mindset that the organization doing the work to create something (in this case a NASA contractor) should necessarily be the one to shepherd that work in the future, and that in order to shepherd the work, their exclusive ownership of most of the aspects of the work is justified. Both these premises are flawed in the internet age. One group can create something under a free license and another group can extend it if they have the interest. A group who initially creates something under a free license can shepherd a process involving members of the public contributing under similar free licenses.
+
+There is a real question here of how our society will proceed -- mainly closed or mainly open. It is reflected in everything the non-profit world does -- including the myths it lives by. The choice of myth can be made in part by the funding policies set by foundations and government agencies. The myth that funders may be living by is the scarcity economics myth. How does that myth effect the digital public works funding cycle?
+
+# the cycle of failure
+
+Essentially, most digital public works funded by the government or foundations follow this process:
+
+- public money is paid to some organization to develop some seemingly
+useful digital work either as a "prototype" or as a "product",
+- the contractor argues it is important to create an artificial scarcity
+for the work through copyright to ensure future support of new versions of the work by the contractor without the need for future grants,
+- without marketing, which is almost always more expensive than expected
+(everyone hopes word-of-mouth will be enough for an overnight success), the work fails to attract enough interest to justify continued distribution and minimal support costs,
+- the work is quickly outdated given limited original investment in it
+and rapidly changing platforms and needs, plus the PI wants to move onto other things, and so,
+- the cycle repeats, since an organization that has learned how to get
+one grant probably knows better than anything else how to get another.
+
+Very rarely, the project is a "success" in the sense of being able to become self sustaining economically after generally a large number of funding cycles. At that point, the idea is "commercialized" often by the private sector and often someone makes a lot of money. Essentially, a lottery ticket has paid off -- for one group out of hundreds or thousands.
+
+To an extent, the logic behind all this is similar to when the US Forest service puts in $100 of logging roads for $1 in logging fees, because supposedly cheap access to timber will promote the US economy and welfare of US citizens (even if the timber gets sold to Japan).
+
+In the forest example, it is the public wilderness and those who would enjoy it spiritually or physically who suffer. In the non-profit example, it is the public domain of copyright that suffers, and likely also public privacy and public safety. However, the same logic could be applied to the results of creating a directory of organic food suppliers or a book about how to achieve world peace. Restricting access to all of them is a result of the same scarcity mythology, and the exponential growth of technology requires a new funding mythos.
+
+# encouraging successful collaboration
+
+To break that cycle, what needs to be done?
+
+The mythology of funding needs to shift to fostering the creation of free works of public value. There needs to be a faith that such works if they are of value will eventually attract further support (from public or private sources).
+
+How can that new mythology be implemented on a practical basis? Here are some ideas: 1. Support free content creation processes more than specific products. 2. Support people and organizations participating in those processes, either those making free content or those shepherding free processes. 3. Don't encourage organizations to become self supporting by selling licenses for copyrights or patents. Suggest instead they sell services, customization, or memberships if they want to become self-supporting -- but such things are hard to do so don't insist on them. 4. Reward with more grants people and organizations who actually make important free content (however that is judged).
+
+It is very hard to make effective grants, no matter how knowledgeable, hardworking, and dedicated the foundation staff and board is. Michael Phillips talks about this in the book "The Seven Laws of Money" based on his experience on the board of the Point Foundation. So obviously, this is all easier said than done. Actually, Michael Phillips argues in practice it is impossible to give successful external grants, but perhaps this new funding mythology of supporting free content may change the granting landscape enough that some external grants will produce good things, since at some point grant applicants could be judged on a portfolio of previously developed free content in addition to perceived public value for proposed new efforts.
+
+# what about special case like drug research?
+
+One can make a point on the issue of exclusive rights as far as attracting additional investment to get something so it is generally acceptable for widespread use. In the case of new drugs, it may take hundreds of millions of dollars in investment in clinical studies beyond a drugs initial invention. Still, would it really ever be the case that if all drug research was done in the public domain our society could never under any circumstance find a way to put into production new drugs, even if it meant making some changes to how drugs are tested or produced? The private sector should IMHO provide value added to the public domain, and if it can't, the situation needs to be rethought. Clearly with trillions of dollars a year spent on health care, there is a huge incentive for insurance companies and the government (Medicare/Medicaid) to fund the creation of effective drugs to reduce other long term care costs, even at half a billion a drug.
+
+>From what little I understand of the drug industry, most drug research by drug companies is actually to make "me too" clones of existing drugs (with the original novel drugs typically derived from government funded research and studies and signed over cheaply to drug companies), so drug companies are one of the worst examples of dysfunctional public/private sector investment patterns. Additionally, drug companies generally don't invest in research on drugs of great value to large numbers of people (e.g. river blindness or malaria) if they don't see as much profit in it as the next version of something already popular (and not really needed as much if at all).
+
+One approach is to disconnect drug manufacturing and sales from drug research and drug testing. Why should the two go together? Certainly after a drug patent expires, I can still buy Aspirin or other generic drugs, and drug vendors can compete on price, availability, packaging, and quality. So if research and studies were done purely using public funds then there wouldn't be this issue. Granted, if FDA approval is excessively costly for novel drugs, ways should be considered to streamline it without compromising safety excessively. In general, the future prospect is for "designer drugs" targeted to individuals' biochemistries in the future (perhaps based on genetic and other individual based testing), so this whole expensive drug approval process is going to have to be rethought anyway.
+
+# please keep charitable content free; ask peers to do likewise
+
+In conclusion, please, please look seriously at the copyright policies of individuals and organizations you do fund. Please insist all the creative work you fund is communicated to the public under free or open licenses or returned to the public domain. http://www.fsf.org/philosophy/license-list.html http://www.opensource.org/
+
+And please encourage other peers in foundations and government agencies to do likewise. That way, at least others can build on top of the efforts of people you do fund. That would at least be a big improvement over the current situation.
+
+****

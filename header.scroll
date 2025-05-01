@@ -1,5 +1,5 @@
 importOnly
-theme gazette
+theme prestige
 metaTags
 buildHtml
 tags All
@@ -8,10 +8,17 @@ homeButton
 keyboardNav
 leftRightButtons
 
-container 750px
+container 1000px
+br 2
 printTitle
+br 2
+clearStack
+
+container 600px
 printAuthors
 printDate
+
+br
 
 // css
  :root { --scrollBaseFontSize: 16px;}
