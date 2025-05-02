@@ -1,6 +1,7 @@
 importOnly
 buildHtml
 editBaseUrl edit.html?fileName=
+baseUrl https://liberty.breckyunits.com
 openGraphImage og.jpg
 theme gazette
 metaTags
