@@ -3,8 +3,11 @@ buildHtml
 editBaseUrl edit.html?fileName=
 baseUrl https://liberty.breckyunits.com
 openGraphImage og.png
-theme gazette
+theme roboto
 metaTags
+
+css
+ .scrollSnippetContainer { text-align: left;}
 
 homeButton
 editButton
