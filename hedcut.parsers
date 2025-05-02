@@ -7,6 +7,7 @@ printHedcutsParser
    const authorName = authors.split(" and ")[0] // just use 1st author
    const toCamelCase = str => str ? str.replace(/[^\w\s]/g, ' ').split(/[\s_-]+/).map((w, i) => i === 0 ? w.toLowerCase() : w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('') : '';
    const hedcut = `hedcuts/${toCamelCase(authorName)}.png`
+   // <div class="hedcut-snippet">${description}...</div>
    return `
      <div class="hedcut-container">
       <div class="hedcut-illustration">
@@ -21,7 +22,6 @@ printHedcutsParser
         </div>
         <div class="hedcut-author">${authorName}</div>
         <a href="${permalink}" class="hedcut-title">${title}</a>
-        <div class="hedcut-snippet">${description}...</div>
       </div>
     </div>
    `
