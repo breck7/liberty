@@ -1,10 +1,12 @@
 importOnly
+buildHtml
+editBaseUrl edit.html?fileName=
 theme gazette
 metaTags
-buildHtml
+
 homeButton
+editButton
 
 printTitle
 # Essays against copyright and patent law
 links.scroll
-
