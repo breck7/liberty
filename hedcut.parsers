@@ -21,7 +21,7 @@ printHedcutsParser
         <div class="hedcut-metadata">
           <span class="hedcut-year">${year}</span>
         </div>
-        <div class="hedcut-author">${authorName}</div>
+        <a class="hedcut-author" href="${authorsLink}">${authorName}</a>
         <a href="${permalink}" class="hedcut-title">${title}</a>
       </div>
     </div>
