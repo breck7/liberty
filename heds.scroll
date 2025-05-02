@@ -1,4 +1,7 @@
 buildHtml
+css
+ body {padding: 20px;}
+
 printHedsParser
  extends printSnippetsParser
  javascript
