@@ -3,6 +3,7 @@ printHedcutsParser
  javascript
   makeSnippet(scrollProgram, buildSettings) {
    const { title, permalink, description, dateObject, authors } = scrollProgram
+   const authorsLink = scrollProgram.getParticle("authors").particleAt(0).cue // this assumes a lot. :)
    const year = dateObject.format('YYYY')
    const authorName = authors.split(" and ")[0] // just use 1st author
    const toCamelCase = str => str ? str.replace(/[^\w\s]/g, ' ').split(/[\s_-]+/).map((w, i) => i === 0 ? w.toLowerCase() : w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('') : '';
@@ -12,7 +13,7 @@ printHedcutsParser
      <div class="hedcut-container">
       <div class="hedcut-illustration">
         ${hedcut ? 
-          `<img src="${hedcut}" class="hedcut-image" alt="${authorName} hedcut">` :
+          `<a href="${authorsLink}"><img src="${hedcut}" class="hedcut-image" alt="${authorName} hedcut"></a>` :
           `<div class="hedcut-placeholder"></div>`
         }
       </div>
