@@ -1,0 +1,14 @@
+originalParser
+ cue original
+ atoms cueAtom urlAtom
+ description Set original source.
+ extends abstractTopLevelSingleMetaParser
+
+printOriginalParser
+ extends abstractPrintMetaParser
+ javascript
+  async load() {
+    const link = this.root.get("original")
+    console.log(link)
+    this.replaceWith(`View original\n ${link}\n class printDateParser`)
+  }

@@ -2,6 +2,7 @@ importOnly
 theme prestige
 metaTags
 buildHtml
+buildTxt
 tags All
 
 homeButton
@@ -14,9 +15,14 @@ printTitle
 br 2
 clearStack
 
+original.parsers
+
 container 600px
+
+center
 printAuthors
 printDate
+printOriginal
 
 br
 
@@ -24,6 +30,6 @@ br
  :root { --scrollBaseFontSize: 16px;}
  .scrollParagraph {text-indent: 2em;}
 
-footer.scroll
+pageFooter.scroll
  moveToFooter
 

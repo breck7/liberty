@@ -1,7 +1,7 @@
 header.scroll
 title Why Software Should Be Free
 authors Richard Stallman
- https://www.gnu.org/philosophy/shouldbefree.en.html
+original https://www.gnu.org/philosophy/shouldbefree.en.html
 date 7/01/2011
 
 The existence of software inevitably raises the question of how decisions about its use should be made. For example, suppose one individual who has a copy of a program meets another who would like a copy. It is possible for them to copy the program; who should decide whether this is done? The individuals involved? Or another party, called the “owner”?
