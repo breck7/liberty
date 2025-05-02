@@ -18,4 +18,5 @@ printOriginalParser
     const particle = this.appendSibling(content, children)
    const html = particle.buildHtml()
    particle.destroy()
+   return html
   }
