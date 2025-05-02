@@ -1,13 +1,15 @@
 importOnly
-theme prestige
-metaTags
 buildHtml
 buildTxt
 tags All
+editBaseUrl edit.html?fileName=
+theme prestige
+metaTags
 
 homeButton
 keyboardNav
 leftRightButtons
+editButton
 
 container 1000px
 br 2
@@ -32,4 +34,3 @@ br
 
 pageFooter.scroll
  moveToFooter
-
