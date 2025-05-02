@@ -1,6 +1,7 @@
 importOnly
 buildHtml
 editBaseUrl edit.html?fileName=
+openGraphImage og.jpg
 theme gazette
 metaTags
 
