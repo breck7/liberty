@@ -1,0 +1,22 @@
+originalParser
+ cue original
+ atoms cueAtom urlAtom
+ description Set original source.
+ extends abstractTopLevelSingleMetaParser
+
+printOriginalParser
+ extends abstractPrintMetaParser
+ javascript
+  buildTxt() {
+    return "Original: " + this.root.get("original")
+  }
+  buildHtml() {
+    const link = this.root.get("original")
+    return this.scrollToHtml(`View original`, `${link}\nclass printDateParser`)
+  }
+  scrollToHtml(content, children) {
+    const particle = this.appendSibling(content, children)
+   const html = particle.buildHtml()
+   particle.destroy()
+   return html
+  }

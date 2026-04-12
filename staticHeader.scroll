@@ -1,0 +1,17 @@
+importOnly
+buildHtml
+editBaseUrl edit.html?fileName=
+baseUrl https://liberty.breckyunits.com
+openGraphImage og.png
+theme roboto
+metaTags
+
+css
+ .scrollSnippetContainer { text-align: left;}
+
+homeButton
+editButton
+
+printTitle
+# Essays against copyright and patent law
+links.scroll

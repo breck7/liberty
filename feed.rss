@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+ <title>Feed</title>
+ <link>/</link>
+ <description></description>
+ <lastBuildDate>Sun, 12 Apr 2026 06:05:59 +0000</lastBuildDate>
+ <language>en-us</language>
+ <item>
+<title>The Case Against Patents</title>
+<link>/caseAgainst.html</link>
+<pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>It’s Time to Stop Talking About Copyright</title>
+<link>/stop.html</link>
+<pubDate>Wed, 02 Nov 2011 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>Why Software Should Be Free</title>
+<link>/stallman.html</link>
+<pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>Guerilla Open Access Manifesto</title>
+<link>/aaron.html</link>
+<pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>Ideas, Free and Unfree: A Book Commentary</title>
+<link>/ideasFreeAndUnfree.html</link>
+<pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>The Fight against Intellectual Property</title>
+<link>/theFight.html</link>
+<pubDate>Wed, 02 Mar 2011 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>Contra Copyright, Again</title>
+<link>/contraCopyright.html</link>
+<pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>“Intellectual Property” is Slavery</title>
+<link>/nina.html</link>
+<pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>There are No Good Arguments for Intellectual Property</title>
+<link>/noGoodArguments.html</link>
+<pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>Owning Ideas Means Owning People</title>
+<link>/owningPeople.html</link>
+<pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>The Surprising History of Copyright and The Promise of a Post-Copyright World</title>
+<link>/surprisingHistory.html</link>
+<pubDate>Sat, 27 May 2006 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>Copyright And Patent Policy In a Post-Scarcity Society</title>
+<link>/paul.html</link>
+<pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>The Economy of Ideas</title>
+<link>/economyOfIdeas.html</link>
+<pubDate>Tue, 01 Mar 1994 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>Copywrongs</title>
+<link>/copywrongs.html</link>
+<pubDate>Tue, 01 Jul 1986 00:00:00 +0000</pubDate>
+</item>
+ <item>
+<title>A New Argument Against Copyright</title>
+<link>/letterToEditor.html</link>
+<pubDate>Thu, 23 Apr 1891 00:00:00 +0000</pubDate>
+</item>
+</channel>
+</rss>

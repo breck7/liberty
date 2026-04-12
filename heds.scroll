@@ -1,0 +1,31 @@
+buildHtml
+css
+ body {padding: 20px;}
+
+printHedsParser
+ extends printSnippetsParser
+ javascript
+  makeSnippet(scrollProgram, buildSettings) {
+   const { title, permalink, description, dateObject, authors } = scrollProgram
+   const year = dateObject.format('YYYY')
+   const authorName = authors.split(" and ")[0] // just use 1st author
+   const toCamelCase = str => str ? str.replace(/[^\w\s]/g, ' ').split(/[\s_-]+/).map((w, i) => i === 0 ? w.toLowerCase() : w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('') : '';
+   const hedcut = `hedcuts/${toCamelCase(authorName)}.png`
+   // <div class="hedcut-snippet">${description}...</div>
+   return `
+     <div class="hedcut-container">
+      <div class="hedcut-illustration">
+        ${hedcut ?
+          `<img src="${hedcut}" class="hedcut-image" alt="${authorName} hedcut">` :
+          `<div class="hedcut-placeholder"></div>`
+        }
+      </div>
+      <div class="hedcut-content">
+        <div class="hedcut-metadata">
+        </div>
+      </div>
+    </div>
+   `
+  }
+
+printHeds All

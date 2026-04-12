@@ -1,0 +1,13 @@
+title Search Voices For Liberty
+staticHeader.scroll
+
+container 1000px
+
+posts All
+ unselect date
+  printTable
+tableSearch
+
+
+
+footer.scroll

@@ -1,0 +1,36 @@
+importOnly
+buildHtml
+buildTxt
+tags All
+editBaseUrl edit.html?fileName=
+theme roboto
+metaTags
+
+homeButton
+keyboardNav
+leftRightButtons
+editButton
+
+container 1000px
+br 2
+printTitle
+br 2
+clearStack
+
+original.parsers
+
+container 600px
+
+center
+printAuthors
+printDate
+printOriginal
+
+br
+
+// css
+ :root { --scrollBaseFontSize: 16px;}
+ .scrollParagraph {text-indent: 2em;}
+
+pageFooter.scroll
+ moveToFooter

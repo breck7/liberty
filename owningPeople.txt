@@ -1,0 +1,39 @@
+Owning Ideas Means Owning People
+================================
+
+by Roderick T. Long
+ https://x.com/RoderickTLong Roderick T. Long
+November 19, 2008
+Original: https://perma.cc/7LGU-XJLE
+
+Timothy Lee writes:  “I can’t agree with Baker that all copyright and patent monopolies are illegitimate.” I’m actually not sure that’s Baker’s view (in his original response Baker remarks in passing, “there may be areas in which patents are an effective policy for promoting innovation”), but it is my view, so let me say briefly why I don’t regard intellectual property as a legitimate form of property.
+
+The objects of ownership in the case of intellectual property are supposed to be abstract objects; but what does ownership over an abstract object amount to?  Ownership is supposed to solve conflicts over use, but there cannot literally be conflicts over the use of abstract objects; I don’t have to wait until you’re done thinking the Pythagorean theorem before I can start thinking it. Putative conflicts over the use of abstract objects are always really conflicts over the concrete items in which those abstract objects are embodied.
+
+An abstract object, such as a design for a new kind of mousetrap, gets its foothold in concrete reality only by being embodied in, say, a mind that is thinking of it, or a sheet of paper that describes it, or an actual mousetrap built in accordance with it.  But if those concrete objects are already owned – the mind by the person whose mind it is, the paper and the mousetrap by whoever made or bought them – then the question of who has rights over those things is already settled, and there can be no further question of who owns the design itself.  If the originator of the design were to claim exclusive rights over it, he or she would thereby be claiming, in practice, the right to control someone else’s property – someone else’s individual mind or individual sheet of paper or individual mousetrap.  Intellectual property is thus essentially a claim of ownership over other people and the products of other people’s labor, and so is necessarily illegitimate; in forbidding the free circulation of ideas it constitutes a form of censorship as well.
+
+In defense of intellectual property, Lee notes that “Copyright and patent protections have existed since the beginning of the republic, and if properly calibrated they can (as the founders put it) promote the progress of science and the useful arts.”  That they have existed since the beginning of the republic is true, but not a compelling argument for their legitimacy. (Slavery existed for the first century of the republic also.) As for their being needed to promote “science and the useful arts,” even if this were true it wouldn’t justify the violation of liberty involved – but it is doubtful that it is true, given that most scientific and artistic progress throughout history was accomplished without intellectual property protections, and in many cases was in fact possible only because there were no such protections (as inventions built on previous inventions, and artworks on previous artworks).  The protectionist argument that intellectual innovators won’t have sufficient incentive to create unless they’re protected from competition doesn’t seem to hold up historically.
+
+I can’t work up much enthusiasm for Baker’s alternative proposal, however.  Baker writes:
+
+> My ideal system would be a system in which the government allocates a pot of money (@$30 billion a year – approximately equal to private R&D in the pharmaceutical sector) that would be awarded in long-term contracts to a relatively small number of master contractors. For example, there can be 10 master contractors getting grants of roughly $30 billion each spread over 10 years. The model here should be government contracts for major projects, like building an airport.
+
+In light of the massive rent-seeking, favoritism, and costly boondoggles that plague government contracts, Baker’s proposal seems worrisomely similar to the kind of destructive corporate welfare and monopoly privilege that I discussed in my first essay.
+
+Contrary to what both Lee and Baker imply, there are ways of promoting the “progress of science and the useful arts” without invoking state aggression against liberty or property — ways that would secure many of the benefits of copyright and patent protection without violating libertarian scruples.  These ways include contractual stipulations, charitable patronage, and organized boycotts.
+
+Let me say a bit about the latter case, the organized boycott.  During the late medieval period a system of commercial law arose in Europe called the Law Merchant, its creation prompted in part by the lack of uniform legal standards owing to the unwillingness of governmental courts in one country to enforce contracts made under the laws of another country.  Bypassing the inefficient (because monopolistic) government courts, merchants from different countries joined together in developing their own rules and courts; being denied the enforcement powers of the state, mercantile courts could rely only on boycotts to secure compliance with their decisions.  A similar situation arose in 17th-century Amsterdam: when government courts refused to enforce certain forms of financial contract, merchants continued to make such contracts anyway, relying on the power of boycott for enforcement. In both cases, the threat of boycott was sufficient to ensure that parties abided by their contracts.^1
+
+There is little reason to suppose that payment for the labor of intellectual innovators could not be guaranteed in the same way, via an organized system of voluntary boycotts rather than by governmental force.  Being voluntary, such a system would avoid the rights-based objections to copyrights and patents; moreover, the kinds of protections that would be sustainable under a voluntary regime would be unlikely to include the extreme, disproportionate excesses of current IP law.
+
+Notes
+=====
+
+^1: On the Law Merchant see Tom W. Bell, “Polycentric Law,” Humane Studies Review 7, no. 1 (Winter 1991/92; http://osf1.gmu.edu/~ihs/w91issues.html; on the Amsterdam case see Edward Stringham, “The Extralegal Development of Securities Trading in Seventeenth-Century Amsterdam,” Quarterly Review of Economics and Finance 43 (2003), pp. 321–344; http://www.sjsu.edu/stringham/docs/Stringham.2003.QREF.Amsterdam.pdf.
+
+⁂
+
+Original: https://perma.cc/7LGU-XJLE
+
+⇧
+ /# ⇧
