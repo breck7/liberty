@@ -1,7 +1,9 @@
 importOnly
 buildHtml
-editBaseUrl edit.html?fileName=
-baseUrl https://liberty.breckyunits.com
+// editBaseUrl edit.html?fileName=
+editBaseUrl https://github.com/breck7/liberty/edit/main/
+baseUrl https://breck7.github.io/liberty/
+// baseUrl https://liberty.breckyunits.com
 openGraphImage og.png
 theme roboto
 metaTags
