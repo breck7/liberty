@@ -2,7 +2,7 @@ importOnly
 buildHtml
 buildTxt
 tags All
-editBaseUrl edit.html?fileName=
+editBaseUrl https://github.com/breck7/liberty/edit/main/
 theme roboto
 metaTags
 
