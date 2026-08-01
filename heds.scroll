@@ -9,14 +9,16 @@ printHedsParser
    const { title, permalink, description, dateObject, authors } = scrollProgram
    const year = dateObject.format('YYYY')
    const authorName = authors.split(" and ")[0] // just use 1st author
+   const featuredName = scrollProgram.toString().match(/^\/\/ featured (.+)$/m)?.[1]
+   const displayName = featuredName || authorName
    const toCamelCase = str => str ? str.replace(/[^\w\s]/g, ' ').split(/[\s_-]+/).map((w, i) => i === 0 ? w.toLowerCase() : w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('') : '';
-   const hedcut = `hedcuts/${toCamelCase(authorName)}.png`
+   const hedcut = `hedcuts/${toCamelCase(displayName)}.png`
    // <div class="hedcut-snippet">${description}...</div>
    return `
      <div class="hedcut-container">
       <div class="hedcut-illustration">
         ${hedcut ?
-          `<img src="${hedcut}" class="hedcut-image" alt="${authorName} hedcut">` :
+          `<img src="${hedcut}" class="hedcut-image" alt="${displayName} hedcut">` :
           `<div class="hedcut-placeholder"></div>`
         }
       </div>
