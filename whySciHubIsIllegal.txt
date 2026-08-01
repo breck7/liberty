@@ -1,0 +1,82 @@
+Why Sci-Hub Is Illegal, and What You Can Do About It
+====================================================
+
+by Alexandra Elbakyan
+ https://engineuring.wordpress.com/ Alexandra Elbakyan
+July 7, 2018
+Original: https://engineuring.wordpress.com/2018/07/07/why-sci-hub-is-illegal-and-what-you-can-do-about-it/
+
+Sci-Hub is oftenly presented as an illegal way to get access to paywalled research papers, and hence, in some way inferior to the other options, like:
+
+- send an email to the authors of the manuscript and ask them to send you a copy;
+
+- search Google Scholar, perhaps the paper is available somewhere;
+
+etc.
+
+Indeed, Sci-Hub emerged in 2011 to surpass these “legal” methods. Researchers were doing these for years and decades, even before email was invented: asking authors and other researchers to send them a copy of the paper.
+
+But that is a very time-consuming and slow method to read research articles. And it does not always work, especially for old papers, when authors can be retired already.
+
+And Google Scholar can search only those papers that are available online, which was, especially in 2011, a very small percentage of the papers published behind paywall.
+
+Sci-Hub emerged as a solution for immediate access to any paper behind paywall and simply because it was better than other methods listed here, it became very popular.
+
+Why is Sci-Hub considered to be illegal?
+========================================
+
+Providing free access to research papers on websites like Sci-Hub breaks so-called copyright law that was made to taboo free distribution of information on the Internet. That includes music, movies, documentaries, books, and research articles.
+ https://en.wikipedia.org/wiki/Copyright_law copyright law
+
+Not everyone agrees that copyright law should exist in the first place. Pirate Parties emerged as a response against it:
+
+> The first Pirate Party to be established was the Pirate Party of Sweden, whose website was launched on 1 January 2006 by Rick Falkvinge. Falkvinge was inspired to found the party after he found that Swedish politicians were generally unresponsive to Sweden’s debate over changes to copyright law in 2005.
+
+When Sci-Hub became known, I thought that it will provide a good case against copyright law. When the law prevents science to develop, that law must be repealed.
+
+Nothing of that happened. Instead, Sci-Hub was quickly banished as an “illegal” solution and projects like Unpaywall emerged and started promoting themselves as a “legal” alternatives to Sci-Hub.
+
+These projects are not in fact an alternative: Sci-Hub started providing access to paywalled papers that could not be found anywhere on the Internet, because distributing them is illegal, while solutions like Unpaywall provide access to papers that are already available on the Internet, which is a huge difference.
+
+Sci-Hub always intended to be legal, and advocated for the copyright law to be repealed or changed, so that it will not prohibit the development of science.
+
+To help Sci-Hub get legal, you can support these fight, for example by joining the local Pirate Party.
+
+Letter to the Court
+===================
+
+_On September 15, 2015, Elbakyan filed the following letter as Document 50 in Elsevier Inc. et al. v. Sci-Hub et al., Case No. 1:15-cv-04282-RWS, in the United States District Court for the Southern District of New York._
+
+View the original two-page court filing.
+ https://www.courtlistener.com/docket/4355308/50/elsevier-inc-v-sci-hub/ View the original two-page court filing.
+
+Dear Mr. Robert W. Sweet,
+
+I am writing to clarify some details on Elsevier v. Sci-Hub, Case # 15-cv-4282.
+
+I am the main operator of sci-hub.org website mentioned in the case. That is true that via sci-hub.org website anyone can download, absolutely for free, a copy of research paper published by Elsevier (Elsevier asks for 32 USD for each download).
+
+I would like to clarify the reasons behind sci-hub.org website. When I was a student in Kazakhstan university, I did not have access to any research papers. These papers I needed for my research project. Payment of 32 dollars is just insane when you need to skim or read tens or hundreds of these papers to do research. I obtained these papers by pirating them. Later I found there are lots and lots of researchers (not even students, but university researchers) just like me, especially in developing countries. They created online communities (forums) to solve this problem. I was an active participant in one of such communities in Russia. Here anyone who needs research paper, but cannot pay for it, could place a request and other members who can obtain the paper will send it for free by email. I could obtain any paper by pirating it, so I solved many requests and people always were very grateful for my help. After that, I created sci-hub.org website that simply makes this process automatic and the website immediately became popular.
+
+That is true that website collects donations, however we do not pressure anyone to send them. Elsevier, in contrast, operates by racket: if you do not send money, you will not read any papers. On my website, any person can read as many papers as they want for free, and sending donations is their free will. Why Elsevier cannot work like this, I wonder?
+
+I would also like to mention that Elsevier is not a creator of these papers. All papers on their website are written by researchers, and researchers do not receive money from what Elsevier collects. That is very different from music or movie industry, where creators receive money from each copy sold. But economics of research papers is very different. Authors of these papers do not receive money. Why would they send their work to Elsevier then? They feel pressured to do this, because Elsevier is an owner of so-called “high-impact” journals. If a researcher wants to be recognized, make a career—he or she needs to have publications in such journals.
+
+What I written here is not just my opinion—this topic is widely discussed in research community. For example, a researcher John Willinsky wrote a book named “The Access Principle: The Case for Open Access to Research and Scholarship” where he discusses this problem. The general opinion in research community is that research papers should be distributed for free (open access), not sold. And practices of such companies like Elsevier are unacceptable, because they limit distribution of knowledge. In 2012, there was an “Elsevier boycott” organized by a prominent mathematician Timothy Gowers to battle such practices:
+
+> The Cost of Knowledge is a protest by academics against the business practices of academic journal publisher Elsevier. Among the reasons for the protests are a call for lower prices for journals and to promote increased open access to information. The main work of the project is to ask researchers to sign a statement committing not to support Elsevier journals by publishing, performing peer review, or providing editorial services for these journals.
+
+I would like to also mention that we never received any complaints from authors or researchers, only Elsevier is complaining about free distribution of knowledge on sci-hub.org website.
+
+Best regards,
+
+Alexandra Elbakyan,
+
+the sci-hub.org operator
+
+⁂
+
+Original: https://engineuring.wordpress.com/2018/07/07/why-sci-hub-is-illegal-and-what-you-can-do-about-it/
+
+⇧
+ /# ⇧
