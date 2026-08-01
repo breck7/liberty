@@ -251,10 +251,6 @@ Technically, we do not need trademark laws, because the actions that we detest a
 ^11: Of course the people who framed the GNU Free Documentation License may have worked out of a variety of assumptions, worldviews, and religious commitments. I do not know. But as human beings working in God’s world, they wrestled with the realities of ethical issues. Whether they knew it or not, they came up with a formula that, however imperfectly, takes into account both hope for freedom and realism about sin.
  https://www.fsf.org/licensing/essays/pragmatic.html hope for freedom and realism about sin
 
-_Copyright (c) 2005 by Vern Sheridan Poythress._
-Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license can be found at the Free Software Foundation website.
- https://www.fsf.org/licensing/licenses/fdl.html Free Software Foundation
-
 ⁂
 
 Original: https://frame-poythress.org/copyrights-and-copying-why-the-laws-should-be-changed/
