@@ -4,6 +4,7 @@ buildTxt
 tags All
 editBaseUrl https://github.com/breck7/liberty/edit/main/
 theme roboto
+favicon favicon.png
 metaTags
 
 homeButton
