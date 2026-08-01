@@ -1,7 +1,8 @@
 importOnly
 
 center
-Home | About | Search
+Home | About | Videos | Search
  index.html Home
  about.html About
+ videos.html Videos
  search.html Search
