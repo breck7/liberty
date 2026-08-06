@@ -11,7 +11,8 @@ printHedcutsParser
    const displayName = featuredName || authorName
    const displayLink = featuredName ? featuredUrl : authorsLink
    const toCamelCase = str => str ? str.replace(/[^\w\s]/g, ' ').split(/[\s_-]+/).map((w, i) => i === 0 ? w.toLowerCase() : w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('') : '';
-   const hedcut = `hedcuts/${toCamelCase(displayName)}.png`
+   const hedcutOverride = scrollProgram.toString().match(/^\/\/ hedcut (.+)$/m)?.[1]
+   const hedcut = hedcutOverride || `hedcuts/${toCamelCase(displayName)}.png`
    // <div class="hedcut-snippet">${description}...</div>
    return `
      <div class="hedcut-container">

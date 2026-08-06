@@ -8,10 +8,12 @@ printOriginalParser
  extends abstractPrintMetaParser
  javascript
   buildTxt() {
-    return "Original: " + this.root.get("original")
+    const original = this.root.get("original")
+    return original ? "Original: " + original : ""
   }
   buildHtml() {
     const link = this.root.get("original")
+    if (!link) return ""
     return this.scrollToHtml(`View original`, `${link}\nclass printDateParser`)
   }
   scrollToHtml(content, children) {
